@@ -1,6 +1,5 @@
 package com.lmch;
-
-import com.lmch.TemplateMethod.Test;
+import com.lmch.FactoryMethod.Test;
 
 public class App {
     public static void main(String[] args) throws Exception {
